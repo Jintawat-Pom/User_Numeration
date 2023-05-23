@@ -1,6 +1,10 @@
 # User_Numeration
 
-Run Pro.py 
+ติดตั้ง python
+
+ติดตั้ง libery TKinter ด้วยคำสั่ง pip install tkinter หรือ pip install tk
+
+Run Pro.py ด้วย Editor
 
 หากโหลดแล้วใช้ไม่ได้ ลบ บรรทัดที่ใช้ตัวแปร P1 ออกไปเลยก็ได้ มันแค่ icon 
 
